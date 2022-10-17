@@ -11,5 +11,8 @@
     "url": "git@gitcode.net:cloud-ide/template-html.git"
   },
   "author": "Aresn",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
 }
