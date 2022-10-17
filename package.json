@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "http-server"
+    "dev": "live-server"
   },
   "repository": {
     "type": "git",
@@ -13,6 +13,6 @@
   "author": "Aresn",
   "license": "MIT",
   "dependencies": {
-    "http-server": "^14.1.1"
+    "live-server": "^1.2.2"
   }
 }
