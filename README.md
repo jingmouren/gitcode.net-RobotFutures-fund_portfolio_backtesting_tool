@@ -39,9 +39,9 @@
 
 ## 六、报名流程
 
-**1. 进入 1024 云 IDE 挑战赛：[https://gitcode.net/cloud-ide/1024](https://gitcode.net/cloud-ide/1024) 。Fork 该项目，即参与比赛**
+1. **进入 1024 云 IDE 挑战赛：[https://gitcode.net/cloud-ide/1024](https://gitcode.net/cloud-ide/1024) 。Fork 该项目，即参与比赛**
 
-**2. 将 Fork 的项目在云 IDE 中打开，该步骤有多种方式，任选其一即可：**
+2. **将 Fork 的项目在云 IDE 中打开，该步骤有多种方式，任选其一即可：**
   
     (1) 访问 [https://ide.csdn.net](https://ide.csdn.net) ，新建工作空间，仓库地址填写 Fork 的 Git 地址
 
@@ -51,7 +51,7 @@
 
     ![](https://file.iviewui.com/cloud-ide/cloud-ide-img-2.png)    
 
-**3. 在云 IDE 中完成作品，并提交代码，提交代码说明：**
+3. **在云 IDE 中完成作品，并提交代码，提交代码说明：**
 
     (1) 如果想不验证直接提交，需要在上述 （1）方案中，填写 SSH 的 Git 地址，并将云 IDE 提供的 SSH Key 绑定到自己的 GitCode SSH 密钥中 [https://gitcode.net/-/profile/keys](https://gitcode.net/-/profile/keys)
 
