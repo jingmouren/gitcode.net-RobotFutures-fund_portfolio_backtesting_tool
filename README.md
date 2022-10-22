@@ -49,7 +49,7 @@
 
 (1) 访问 [https://ide.csdn.net](https://ide.csdn.net) ，新建工作空间，仓库地址填写 Fork 的 Git 地址（操作方法：点击”克隆“，复制”通过 SSH Clone 项目“的链接）
  
-<img src="./src/gitcode-ssh.png" width="400px" style="border: 6px solid #fff;border-radius: 2px;">
+<img src="https://gitcode.net/cloud-ide/1024/-/raw/main/src/gitcode-ssh.png" width="400px" style="border: 6px solid #fff;border-radius: 2px;">
 <img src="https://file.iviewui.com/cloud-ide/cloud-ide-img-1.png" width="400px" style="border: 6px solid #fff;border-radius: 2px;">
 
 （2）填写 SSH 的 Git 地址，并将云 IDE 提供的 SSH Key 绑定到自己的 GitCode SSH 密钥中 [https://gitcode.net/-/profile/keys](https://gitcode.net/-/profile/keys)
