@@ -17,15 +17,17 @@
 | 参赛报名及提交作品  | 2022.10.23 - 2022.11.06 |
 | 作品评选  | 2022.11.07 - 2022.11.14 |
 | 评选结果公布  | 2022.11.15 |
+| 奖励发放  | 2022.11.16 - 2022.11.22 |
 
 ## 四、奖项设置
 
 |  奖项   | 奖品  | 人数 |
 |  ----  | ----  | ---- |
-| 一等奖  | 奖金 5000 元 + 1 年云 IDE 会员 | 1 |
-| 二等奖  | 奖金 2000 元 + 1 年云 IDE 会员 | 2 |
-| 三等奖  | 奖金 1000 元 + 1 年云 IDE 会员 | 3 |
-| 优秀奖  | 奖金 100 元 + 1 个月云 IDE 会员 | 30 |
+| 一等奖  | 奖金 5000 元 + 10核 10G 云实验环境会员-1年| 1 |
+| 二等奖  | 奖金 2000 元 + 10核 10G 云实验环境会员-1年 | 2 |
+| 三等奖  | 奖金 1000 元 + 10核 10G 云实验环境会员-1年 | 3 |
+| 优秀奖  | 奖金 100 元 + 10核 10G 云实验环境会员-1个月 | 30 |
+| 参与奖  | 10核 10G 云实验环境会员-1个月 | 前10000名参赛者可得 |
 
 ## 五、参赛要求
 
@@ -35,27 +37,27 @@
 
 3. 参赛作品不存在抄袭等行为。
 
-4. 获奖人员，领奖时需实名认证，1 个实名认证用户仅可领取1份奖项。
+4. 除参与奖外，获奖人员，领奖时需实名认证，1 个实名认证用户仅可领取1份奖项。
 
 ## 六、报名流程
 
 1. **进入 1024 云 IDE 挑战赛：[https://gitcode.net/cloud-ide/1024](https://gitcode.net/cloud-ide/1024) 。Fork 该项目，即参与比赛**
 
-2. **将 Fork 的项目在云 IDE 中打开，该步骤有多种方式，任选其一即可：**
-  
-    (1) 访问 [https://ide.csdn.net](https://ide.csdn.net) ，新建工作空间，仓库地址填写 Fork 的 Git 地址
+2. **将 Fork 的项目在云 IDE 中打开，并在云IDE中完成作品，并提交代码。有2种操作方法，任选其一即可：**
 
-    ![](https://file.iviewui.com/cloud-ide/cloud-ide-img-1.png)
+**方法一：**
 
-    (2) 直接在 Fork 的 GitCode 域名前加 ide 进入，例如 https://idegitcode.net/xxxxx/1024
+(1) 访问 [https://ide.csdn.net](https://ide.csdn.net) ，新建工作空间，仓库地址填写 Fork 的 Git 地址（操作方法：点击”克隆“，复制”通过 SSH Clone 项目“的链接）
 
-    ![](https://file.iviewui.com/cloud-ide/cloud-ide-img-2.png)    
+![](https://img-home.csdnimg.cn/images/20221022110455.png)  
+![](https://file.iviewui.com/cloud-ide/cloud-ide-img-1.png)  
 
-3. **在云 IDE 中完成作品，并提交代码，提交代码说明：**
+（2）填写 SSH 的 Git 地址，并将云 IDE 提供的 SSH Key 绑定到自己的 GitCode SSH 密钥中 [https://gitcode.net/-/profile/keys](https://gitcode.net/-/profile/keys)
+**方法二：**
 
-    (1) 如果想不验证直接提交，需要在上述 （1）方案中，填写 SSH 的 Git 地址，并将云 IDE 提供的 SSH Key 绑定到自己的 GitCode SSH 密钥中 [https://gitcode.net/-/profile/keys](https://gitcode.net/-/profile/keys)
-
-    (2) 如果填写的是 Https 的 Git 地址，或通过上述 （2）方案打开的云 IDE，提交代码时，云 IDE 会让用户输入 CSDN 的账号和密码（即手机号+密码）
+(1) 直接在 Fork 的 GitCode 域名前加 ide 进入，例如 https://idegitcode.net/xxxxx/1024
+![](https://file.iviewui.com/cloud-ide/cloud-ide-img-2.png)
+(2) 提交代码时，云 IDE 会让用户输入 CSDN 的账号和密码（即手机号+密码）
 
 ## 七、评选规则
 
@@ -87,13 +89,19 @@
 
     a. 新颖性，使用了较为新颖的技术实现
 
-## 八、赛事交流
+## 八、领奖规则
 
-参赛选手官方交流群（仅作为选手之间讨论和交流）。扫码进入选手沟通群。大赛重要节点通知会在群内第一时间告知，请所有报名选手务必加群。
+1. 获奖名单会在该评选结束后在该页面公布。
+
+2. 工作人员将在活动结束后的7个工作日内，通过CSDN私信联系中奖用户，进行发奖，请您注意消息通知。
+
+## 九、赛事交流
+
+参赛选手官方交流群（仅作为选手之间讨论和交流）。扫码进入选手沟通群。大赛重要节点通知会在群内第一时间告知，请所有报名选手务必加群
 
 <img src="https://file.iviewui.com/asd/cloud-ide/cloud-ide-1.png" width="200px" style="border: 6px solid #fff;border-radius: 2px;">
 
-## 九、其他说明
+## 十、其他说明
 
 若出现以下情况，将视为违规，大赛组委会有权取消用户参赛资格及获得的奖项。
 
