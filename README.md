@@ -54,7 +54,7 @@
 > <img src="https://gitcode.net/cloud-ide/1024/-/raw/main/src/gitcode-ssh.png" width="400px" style="border: 6px solid #fff;border-radius: 2px;">
 > <img src="https://file.iviewui.com/cloud-ide/cloud-ide-img-1.png" width="400px" style="border: 6px solid #fff;border-radius: 2px;">
 > 
-> （2）填写 SSH 的 Git 地址，并将云 IDE 提供的 SSH Key （操作方法：https://dev-ide.csdn.net/doc#git_commit）绑定到自己的 GitCode SSH 密钥中 [https://gitcode.net/-/profile/keys](https://gitcode.net/-/profile/keys)
+> （2）填写 SSH 的 Git 地址，并将云 IDE 提供的 SSH Key （操作方法：[https://dev-ide.csdn.net/doc#git_commit](https://dev-ide.csdn.net/doc#git_commit)）绑定到自己的 GitCode SSH 密钥中 [https://gitcode.net/-/profile/keys](https://gitcode.net/-/profile/keys)
 
 
 **方法二：**
