@@ -39,20 +39,22 @@
 
 4. 除参与奖外，获奖人员，领奖时需实名认证，1 个实名认证用户仅可领取1份奖项。
 
-## 六、报名流程
+## 六、报名及参赛流程
 
-1. **进入 1024 云 IDE 挑战赛：[https://gitcode.net/cloud-ide/1024](https://gitcode.net/cloud-ide/1024) 。Fork 该项目，即参与比赛**
+1. **进入 1024 云 IDE 应用挑战赛页面：[https://gitcode.net/cloud-ide/1024](https://gitcode.net/cloud-ide/1024) 。_Fork 该项目，即参与比赛**_
 
-2. **将 Fork 的项目在云 IDE 中打开，并在云IDE中完成作品，并提交代码。有2种操作方法，任选其一即可：**
+2. 参赛后，**将 Fork 的项目在云 IDE 中打开，并在云IDE中完成您自己的作品，并提交代码。
+
+有2种操作方法，任选其一即可：**
 
 **方法一：**
 
-(1) 访问 [https://ide.csdn.net](https://ide.csdn.net) ，新建工作空间，仓库地址填写 Fork 的 Git 地址（操作方法：点击”克隆“，复制”通过 SSH Clone 项目“的链接）
+(1) 访问 [https://ide.csdn.net](https://ide.csdn.net) ，新建工作空间，仓库地址填写 克隆 的 Git 地址（操作方法：点击”克隆“，复制 ”通过SSH Clone项目“ 的链接）
  
 <img src="https://gitcode.net/cloud-ide/1024/-/raw/main/src/gitcode-ssh.png" width="400px" style="border: 6px solid #fff;border-radius: 2px;">
 <img src="https://file.iviewui.com/cloud-ide/cloud-ide-img-1.png" width="400px" style="border: 6px solid #fff;border-radius: 2px;">
 
-（2）填写 SSH 的 Git 地址，并将云 IDE 提供的 SSH Key 绑定到自己的 GitCode SSH 密钥中 [https://gitcode.net/-/profile/keys](https://gitcode.net/-/profile/keys)
+（2）填写 SSH 的 Git 地址，并将云 IDE 提供的 SSH Key （操作方法：https://dev-ide.csdn.net/doc#git_commit）绑定到自己的 GitCode SSH 密钥中 [https://gitcode.net/-/profile/keys](https://gitcode.net/-/profile/keys)
 
 **方法二：**
 
