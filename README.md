@@ -23,11 +23,11 @@
 
 |  奖项   | 奖品  | 人数 |
 |  ----  | ----  | ---- |
-| 一等奖  | 奖金 5000 元 + 10核 10G 云实验环境会员-1年| 1 |
-| 二等奖  | 奖金 2000 元 + 10核 10G 云实验环境会员-1年 | 2 |
-| 三等奖  | 奖金 1000 元 + 10核 10G 云实验环境会员-1年 | 3 |
-| 优秀奖  | 奖金 100 元 + 10核 10G 云实验环境会员-1个月 | 30 |
-| 参与奖  | 10核 10G 云实验环境会员-1个月 | 前10000名参赛者可得 |
+| 一等奖  | 奖金 5000 元 + 10核 10G 云实验环境会员（云IDE会员）-1年| 1 |
+| 二等奖  | 奖金 2000 元 + 10核 10G 云实验环境会员（云IDE会员）-1年 | 2 |
+| 三等奖  | 奖金 1000 元 + 10核 10G 云实验环境会员（云IDE会员）-1年 | 5 |
+| 优秀奖  | 奖金 100 元 + 10核 10G 云实验环境会员（云IDE会员）-1年 | 80 |
+| 参与奖  | 10核 10G 云实验环境会员（云IDE会员）-1个月 | 前10000名参赛者可得 |
 
 ## 五、参赛要求
 
@@ -41,28 +41,30 @@
 
 ## 六、报名及参赛流程
 
-1. **进入 1024 云 IDE 应用挑战赛页面：[https://gitcode.net/cloud-ide/1024](https://gitcode.net/cloud-ide/1024) 。_Fork 该项目，即参与比赛**_
+1. **进入 1024 云 IDE 应用挑战赛页面：[https://gitcode.net/cloud-ide/1024](https://gitcode.net/cloud-ide/1024)** 。**Fork 该项目，即参与比赛**。
 
-2. 参赛后，**将 Fork 的项目在云 IDE 中打开，并在云IDE中完成您自己的作品，并提交代码。
+2. **参赛后，将 Fork 的项目在云 IDE 中打开，并在云IDE中完成您自己的作品，提交代码。**
 
-有2种操作方法，任选其一即可：**
+在云IDE提交代码，有2种操作方法，任选其一即可：
 
 **方法一：**
 
-(1) 访问 [https://ide.csdn.net](https://ide.csdn.net) ，新建工作空间，仓库地址填写 克隆 的 Git 地址（操作方法：点击”克隆“，复制 ”通过SSH Clone项目“ 的链接）
- 
-<img src="https://gitcode.net/cloud-ide/1024/-/raw/main/src/gitcode-ssh.png" width="400px" style="border: 6px solid #fff;border-radius: 2px;">
-<img src="https://file.iviewui.com/cloud-ide/cloud-ide-img-1.png" width="400px" style="border: 6px solid #fff;border-radius: 2px;">
+> (1) 访问 [https://ide.csdn.net](https://ide.csdn.net) ，新建工作空间，仓库地址填写 克隆 的 Git 地址（操作方法：点击”克隆“，复制 ”通过SSH Clone项目“ 的链接）
+>  
+> <img src="https://gitcode.net/cloud-ide/1024/-/raw/main/src/gitcode-ssh.png" width="400px" style="border: 6px solid #fff;border-radius: 2px;">
+> <img src="https://file.iviewui.com/cloud-ide/cloud-ide-img-1.png" width="400px" style="border: 6px solid #fff;border-radius: 2px;">
+> 
+> （2）填写 SSH 的 Git 地址，并将云 IDE 提供的 SSH Key （操作方法：https://dev-ide.csdn.net/doc#git_commit）绑定到自己的 GitCode SSH 密钥中 [https://gitcode.net/-/profile/keys](https://gitcode.net/-/profile/keys)
 
-（2）填写 SSH 的 Git 地址，并将云 IDE 提供的 SSH Key （操作方法：https://dev-ide.csdn.net/doc#git_commit）绑定到自己的 GitCode SSH 密钥中 [https://gitcode.net/-/profile/keys](https://gitcode.net/-/profile/keys)
 
 **方法二：**
 
-(1) 直接在 Fork 的 GitCode 域名前加 ide 进入，例如 https://idegitcode.net/xxxxx/1024
-<br/>
-<img src="https://file.iviewui.com/cloud-ide/cloud-ide-img-2.png" width="400px" style="border: 6px solid #fff;border-radius: 2px;display:block">
+> (1) 直接在 Fork 的 GitCode 域名前加 ide 进入，例如 https://idegitcode.net/xxxxx/1024
+> <br/>
+> <img src="https://file.iviewui.com/cloud-ide/cloud-ide-img-2.png" width="400px" style="border: 6px solid #fff;border-radius: 2px;display:block">
+> 
+> (2) 提交代码时，云 IDE 会让用户输入 CSDN 的账号和密码（即手机号+密码）
 
-(2) 提交代码时，云 IDE 会让用户输入 CSDN 的账号和密码（即手机号+密码）
 
 ## 七、评选规则
 
