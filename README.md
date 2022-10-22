@@ -48,15 +48,18 @@
 **方法一：**
 
 (1) 访问 [https://ide.csdn.net](https://ide.csdn.net) ，新建工作空间，仓库地址填写 Fork 的 Git 地址（操作方法：点击”克隆“，复制”通过 SSH Clone 项目“的链接）
-
-![](https://img-home.csdnimg.cn/images/20221022110455.png)  
-![](https://file.iviewui.com/cloud-ide/cloud-ide-img-1.png)  
+ 
+<img src="./src/gitcode-ssh.png" width="400px" style="border: 6px solid #fff;border-radius: 2px;">
+<img src="https://file.iviewui.com/cloud-ide/cloud-ide-img-1.png" width="400px" style="border: 6px solid #fff;border-radius: 2px;">
 
 （2）填写 SSH 的 Git 地址，并将云 IDE 提供的 SSH Key 绑定到自己的 GitCode SSH 密钥中 [https://gitcode.net/-/profile/keys](https://gitcode.net/-/profile/keys)
+
 **方法二：**
 
 (1) 直接在 Fork 的 GitCode 域名前加 ide 进入，例如 https://idegitcode.net/xxxxx/1024
-![](https://file.iviewui.com/cloud-ide/cloud-ide-img-2.png)
+<br/>
+<img src="https://file.iviewui.com/cloud-ide/cloud-ide-img-2.png" width="400px" style="border: 6px solid #fff;border-radius: 2px;display:block">
+
 (2) 提交代码时，云 IDE 会让用户输入 CSDN 的账号和密码（即手机号+密码）
 
 ## 七、评选规则
