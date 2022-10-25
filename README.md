@@ -29,7 +29,7 @@
 | 优秀奖  | 奖金 100 元 + [10核 10G 云实验环境会员 -1年](https://mydev.csdn.net/product/pod/new) | 80 |
 | 参与奖  | [10核 10G 云实验环境会员 -1个月 ](https://mydev.csdn.net/product/pod/new)| 前10000名参赛者可得 |
 
-注：一年10核10G云实验环境会员，非云服务器，是云容器实验环境，详细介绍[戳我查看](https://mydev.csdn.net/product/pod/new)）
+注：一年10核10G云实验环境会员，非云服务器，是云容器实验环境，详细介绍[戳我查看](https://mydev.csdn.net/product/pod/new)。
 
 ## 五、参赛要求
 
