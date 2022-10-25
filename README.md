@@ -23,11 +23,13 @@
 
 |  奖项   | 奖品  | 人数 |
 |  ----  | ----  | ---- |
-| 一等奖  | 奖金 5000 元 + [10核 10G 云实验环境会员（云IDE会员）-1年](https://mydev.csdn.net/product/pod/new)| 1 |
-| 二等奖  | 奖金 2000 元 + [10核 10G 云实验环境会员（云IDE会员）-1年](https://mydev.csdn.net/product/pod/new) | 2 |
-| 三等奖  | 奖金 1000 元 + [10核 10G 云实验环境会员（云IDE会员）-1年](https://mydev.csdn.net/product/pod/new) | 5 |
-| 优秀奖  | 奖金 100 元 + [10核 10G 云实验环境会员（云IDE会员）-1年](https://mydev.csdn.net/product/pod/new) | 80 |
-| 参与奖  | [10核 10G 云实验环境会员（云IDE会员）-1个月 ](https://mydev.csdn.net/product/pod/new)| 前10000名参赛者可得 |
+| 一等奖  | 奖金 5000 元 + [10核 10G 云实验环境会员 -1年](https://mydev.csdn.net/product/pod/new)| 1 |
+| 二等奖  | 奖金 2000 元 + [10核 10G 云实验环境会员 -1年](https://mydev.csdn.net/product/pod/new) | 2 |
+| 三等奖  | 奖金 1000 元 + [10核 10G 云实验环境会员 -1年](https://mydev.csdn.net/product/pod/new) | 5 |
+| 优秀奖  | 奖金 100 元 + [10核 10G 云实验环境会员 -1年](https://mydev.csdn.net/product/pod/new) | 80 |
+| 参与奖  | [10核 10G 云实验环境会员 -1个月 ](https://mydev.csdn.net/product/pod/new)| 前10000名参赛者可得 |
+
+注：一年10核10G云实验环境会员，非云服务器，是云容器实验环境，详细介绍[戳我查看](https://mydev.csdn.net/product/pod/new)）
 
 ## 五、参赛要求
 
@@ -64,6 +66,8 @@
 > <img src="https://file.iviewui.com/cloud-ide/cloud-ide-img-2.png" width="400px" style="border: 6px solid #fff;border-radius: 2px;display:block">
 > 
 > (2) 提交代码时，云 IDE 会让用户输入 CSDN 的账号和密码（即手机号+密码）
+
+**3. 提交代码后，即可等待CSDN官方进行评选。** 2022.11.07 - 2022.11.14为作品评选时间，2022.11.15公布评选结果。
 
 
 ## 七、评选规则
