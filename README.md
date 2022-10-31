@@ -113,7 +113,7 @@
 
 2、参赛选手官方交流群（仅作为选手之间讨论和交流）。扫码进入选手沟通群。大赛重要节点通知会在群内第一时间告知，请所有报名选手务必加群
 
-<img src="https://file.iviewui.com/asd/cloud-ide/cloud-ide-2.png" width="200px" style="border: 6px solid #fff;border-radius: 2px;">
+<img src="https://file.iviewui.com/asd/cloud-ide/cloud-ide-4.png" width="200px" style="border: 6px solid #fff;border-radius: 2px;">
 
 ## 十、其他说明
 
