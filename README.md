@@ -129,7 +129,7 @@ if __name__ == "__main__":
 # 4. 联系我
 关注作者更多消息，请订阅博客[https://blog.csdn.net/RobotFutures?spm=1010.2135.3001.5343](https://blog.csdn.net/RobotFutures?spm=1010.2135.3001.5343)
 
-- 基金组合价值定投技术交流请联系博主
+- 基金组合价值定投技术交流请联系博主(请备注:基金技术交流)
 
 ![](weixin.png)
 
