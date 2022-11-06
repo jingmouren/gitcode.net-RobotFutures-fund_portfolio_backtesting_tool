@@ -71,8 +71,16 @@ pip install -r requirements.txt&&python fund_portfolio_backtesting_tool.py
         ├── fund_portfolio_trend.png    # 基金组合与沪深300对比
         ├── 沪深300基金参考.csv          # 沪深300参考基金历史数据
         └── 自选组合基金回测数据.csv     # 基金组合回测历史数据
+├── 数据可靠性验证                       # 使用EXCEL验证组合基金复权净值的数据可靠性
+    ├── 数据可靠性验证.xlsx             # 数据可靠性数据验证文档，使用EXCEL函数来实现
+    ├── fund_portfolio_result.csv       # 基金组合份额数据
+    └── 自选组合基金回测数据.csv        # 基金组合回测历史数据
 ├── 基金关键字筛选结果                   # 大盘基金关键字及策略筛选结果
 ├── 基金组合筛选结果列表                 # 筛选结果基金性能指标
+    ├── fund_portfolio_result.csv       # 基金组合清单及份额占比
+    ├── fund_portfolio_trend.png        # 基金组合与沪深300对比
+    ├── 沪深300基金参考.csv              # 沪深300参考基金历史数据
+    └── 自选组合基金回测数据.csv        # 基金组合回测历史数据
 ├── 累计净值趋势                         # 下载的公募基金累计净值历史数据       
 └── 累计回报趋势                        # 下载的公募基金累计回报历史数据    
 ```
@@ -93,6 +101,17 @@ Unnamed: 0,code,years,withdrawal,annual_return,total_return,sharp,calmar,volatil
 5.0,161130,5.37,28.32,13.13,81.43,0.66,23.5765,25.47,易方达纳斯达克100人民币,QDII-指数,7.36,0.8,0.25,0.0,0.12,1.17,0.05
 
 ```
+
+- 数据可靠性验证
+使用EXCEL按照组合基金份额占比，计算基金组合组合复权净值，测试结果如下（详情见【数据可靠性验证】目录）：
+
+**EXCEL计算基金组合复权净值**
+![image-20221106234134442](https://robot-futures-oss-zone.oss-cn-hangzhou.aliyuncs.com/imgs/202211062341074.png)
+
+**fund_portfolio_backtestng_tool回测工具计算基金组合复权净值**
+![image-20221106234413472](https://robot-futures-oss-zone.oss-cn-hangzhou.aliyuncs.com/imgs/202211062344541.png)
+
+可以看到两者的数据是一致的，因此工具的数据可靠性是可以保证的。
 
 # 3. 自建组合
 找到代码的这个位置
