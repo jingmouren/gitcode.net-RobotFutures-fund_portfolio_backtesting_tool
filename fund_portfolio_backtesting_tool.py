@@ -976,7 +976,7 @@ def fund_portfolio_backtesting(fund_kinds_list, fund_share_cfg, start_date, end_
     # 绘制基金累计净值走势图
     draw_cumulative_net_value_trend(x, y, y_ref, dir_output)
 
-    print("基金组合回测完毕！请打【开回测结果】目录查看报告和组合基金净值走势及与沪深300参考基金的收益对比！")
+    print("基金组合回测完毕！请打开【回测结果】目录查看报告和组合基金净值走势及与沪深300参考基金的收益对比！")
 
 if __name__ == "__main__":
     pd.set_option('display.max_rows', 1000)
