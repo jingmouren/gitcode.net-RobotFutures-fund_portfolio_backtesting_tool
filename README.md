@@ -103,12 +103,15 @@ Unnamed: 0,code,years,withdrawal,annual_return,total_return,sharp,calmar,volatil
 ```
 
 - 数据可靠性验证
+
 使用EXCEL按照组合基金份额占比，计算基金组合组合复权净值，测试结果如下（详情见【数据可靠性验证】目录）：
 
 **EXCEL计算基金组合复权净值**
+
 ![image-20221106234134442](https://robot-futures-oss-zone.oss-cn-hangzhou.aliyuncs.com/imgs/202211062341074.png)
 
 **fund_portfolio_backtestng_tool回测工具计算基金组合复权净值**
+
 ![image-20221106234413472](https://robot-futures-oss-zone.oss-cn-hangzhou.aliyuncs.com/imgs/202211062344541.png)
 
 可以看到两者的数据是一致的，因此工具的数据可靠性是可以保证的。
