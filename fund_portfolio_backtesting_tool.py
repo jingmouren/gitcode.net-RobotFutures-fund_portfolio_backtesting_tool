@@ -329,7 +329,8 @@ def draw_cumulative_net_value_trend(x, y, ref, dir_output):
         y (list): 基金组合累计净值
         ref (list): 沪深300参考基金累计净值
     """
-    plt.rcParams["font.sans-serif"]=["SimHei"] #设置字体
+    # windows配置SimHei，Ubuntu配置WenQuanYi Micro Hei
+    plt.rcParams["font.sans-serif"]=["WenQuanYi Micro Hei"] #设置字体    
     plt.rcParams["axes.unicode_minus"]=False #该语句解决图像中的“-”负号的乱码问题
 
     fig, ax = plt.subplots(figsize=(16, 9))
