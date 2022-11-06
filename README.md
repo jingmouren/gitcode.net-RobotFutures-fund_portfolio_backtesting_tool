@@ -94,8 +94,44 @@ Unnamed: 0,code,years,withdrawal,annual_return,total_return,sharp,calmar,volatil
 
 ```
 
-# 3. 联系我
+# 3. 自建组合
+找到代码的这个位置
+```
+if __name__ == "__main__":
+    pd.set_option('display.max_rows', 1000)
+    pd.set_option('display.max_columns', 10)
+
+    # 获得公募基金基础数据(这里不用管，执行即可)
+    df_base = get_fund_base_info()
+
+    # 大盘基金筛选(这里就是基金筛选策略)
+    # 筛选策略是关键字、最大历史回测，基金成立时间、基金最小规模、基金最大允许的交易费率
+    # 可支持的关键字很多，从基金的分类通用关键字即可，例如半导体、新能源、量化等
+    df_kpi_csi300 = get_fund_rank(fund_list=df_base, keywords='沪深300', max_withdrawal=60.0, establish_year=5, start='2018-01-01', end='2022-10-31')
+    df_kpi_csi500 = get_fund_rank(df_base, '中证500', 50.0, 5, '2018-01-01', '2022-10-31')
+    df_kpi_gem = get_fund_rank(df_base, '创业板', 50.0, 5, '2018-01-01', '2022-10-31')
+    df_kpi_gold = get_fund_rank(df_base, '黄金', 50.0, 5, '2018-01-01', '2022-10-31')
+    df_kpi_bond = get_fund_rank(df_base, '债', 30.0, 5, '2018-01-01', '2022-10-31')
+    df_kpi_sp500 = get_fund_rank(df_base, '标普500', 50.0, 5, '2018-01-01', '2022-10-31')
+    df_kpi_nasda = get_fund_rank(df_base, '纳斯达克', 50.0, 5, '2018-01-01', '2022-10-31')
+
+    # 定投基金组合回测
+    fund_portfolio_backtesting(
+        # 这里填写上面获得基金分类数据集
+        fund_kinds_list = [df_kpi_csi300, df_kpi_csi500, df_kpi_gem, df_kpi_gold, df_kpi_bond, df_kpi_sp500, df_kpi_nasda],
+        # 这里配置对应上面的基金份额
+        fund_share_cfg = [0.25, 0.15, 0.10, 0.10, 0.20, 0.15, 0.05],
+        # 这里填写回测起始时间和结束时间，参考跟踪基金
+        start_date = '2018-01-01', end_date = '2022-10-31', fund_id_ref = '160706'
+    )
+```
+
+# 4. 联系我
 关注作者更多消息，请订阅博客[https://blog.csdn.net/RobotFutures?spm=1010.2135.3001.5343](https://blog.csdn.net/RobotFutures?spm=1010.2135.3001.5343)
+
+- 基金组合价值定投技术交流请联系博主
+
+![](weixin.png)
 
 ---
 
