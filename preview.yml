@@ -7,4 +7,4 @@ apps:
     root: ./ # 应用的启动目录
     name: 1024云IDE挑战赛项目 # 应用名称
     description: 1024云IDE挑战赛项目。 # 应用描述
-    autoOpen: true # 打开工作空间时是否自动开启预览（优先级高于根级 autoOpen
+    autoOpen: true # 打开工作空间时是否自动开启预览（优先级高于根级 autoOpen 1
