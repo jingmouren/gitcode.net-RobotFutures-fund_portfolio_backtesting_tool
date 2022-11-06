@@ -1,0 +1,1 @@
+cp fonts/simhei.ttf /usr/share/fonts/&&mkfontscale&&fc-cache

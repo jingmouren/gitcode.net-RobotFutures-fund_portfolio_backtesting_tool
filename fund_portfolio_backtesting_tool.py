@@ -330,7 +330,7 @@ def draw_cumulative_net_value_trend(x, y, ref, dir_output):
         ref (list): 沪深300参考基金累计净值
     """
     # windows配置SimHei，Ubuntu配置WenQuanYi Micro Hei
-    plt.rcParams["font.sans-serif"]=["WenQuanYi Micro Hei"] #设置字体    
+    plt.rcParams["font.sans-serif"]=["SimHei"] #设置字体    
     plt.rcParams["axes.unicode_minus"]=False #该语句解决图像中的“-”负号的乱码问题
 
     fig, ax = plt.subplots(figsize=(16, 9))
@@ -994,7 +994,7 @@ if __name__ == "__main__":
     # 定投基金组合回测
     fund_portfolio_backtesting(
         fund_kinds_list = [df_kpi_csi300, df_kpi_csi500, df_kpi_gem, df_kpi_gold, df_kpi_bond, df_kpi_sp500, df_kpi_nasda],
-        fund_share_cfg = [0.25, 0.15, 0.10, 0.10, 0.20, 0.15, 0.05],
+        fund_share_cfg = [0.05, 0.15, 0.10, 0.10, 0.20, 0.35, 0.05],
         start_date = '2018-01-01', end_date = '2022-10-31', fund_id_ref = '160706'
     )
   
