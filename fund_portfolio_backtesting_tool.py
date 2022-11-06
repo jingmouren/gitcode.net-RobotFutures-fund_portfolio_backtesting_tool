@@ -338,7 +338,7 @@ def draw_cumulative_net_value_trend(x, y, ref, dir_output):
     ax.set_xlabel("时间")
     ax.set_ylabel("基金累计净值")
     ax.set_title("基金走势图")
-    print(x, y)
+    # print(x, y)
 
     ax.plot(x, y, c='red', label='自选基金组合回测数据', alpha=0.6)
     ax.plot(x, ref, c='green', label='沪深300', alpha=0.6)
