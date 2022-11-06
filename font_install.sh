@@ -1,1 +1,1 @@
-cp fonts/simhei.ttf /usr/share/fonts/&&mkfontscale&&fc-cache
+cp fonts/simhei.ttf /usr/share/fonts/&&apt install ttf-mscorefonts-installer&&apt-get install fontconfig&&mkfontscale&&fc-cache
