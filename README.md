@@ -5,7 +5,7 @@
 项目是博主想实现躺赢的基金组合投资工具^ ^。
 博主的基金投资理念是指数基金长期价值定投，买大盘指数，分散投资，优先保住本金。
 
-![](回测结果/2022-11-05_18-23-02/fund_portfolio_trend.png)
+![](https://robot-futures-oss-zone.oss-cn-hangzhou.aliyuncs.com/imgs/202211061422564.png))
 
 ## 1.1 分散投资
 - 分散到不同的品类：例如沪深300、中证500、创业板；
@@ -79,7 +79,7 @@ pip install -r requirements.txt&&python fund_portfolio_backtesting_tool.py
 
 ## 2.3 回测结果展示
 - 回测结果可视化展示
-![](回测结果/2022-11-05_18-23-02/fund_portfolio_trend.png)
+![](https://robot-futures-oss-zone.oss-cn-hangzhou.aliyuncs.com/imgs/202211061422564.png))
 
 - 自选组合基金
 ```
