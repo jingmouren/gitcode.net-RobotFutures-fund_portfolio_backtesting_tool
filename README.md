@@ -1,5 +1,5 @@
 **1024云IDE应用挑战赛地址：[https://gitcode.net/cloud-ide/1024](https://gitcode.net/cloud-ide/1024)**
-
+ 
 **获奖名单：[https://gitcode.net/cloud-ide/1024/-/blob/main/%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95%E5%85%AC%E5%B8%83.md](https://gitcode.net/cloud-ide/1024/-/blob/main/%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95%E5%85%AC%E5%B8%83.md)**
 
 ![image-20221125210102904](https://robot-futures-oss-zone.oss-cn-hangzhou.aliyuncs.com/imgs/202211252101993.png)
